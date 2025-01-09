@@ -1,9 +1,6 @@
-# MOF_4_FA_removal
-
-Investigating formaldehyde removal using metal-organic frameworks through generative Artificial Intelligence screening
+# Investigating formaldehyde removal using metal-organic frameworks through generative Artificial Intelligence screening
 Kevizali Neikha and Amrit Puzari*
 Department of Chemistry, National Institute of Technology Nagaland, Chumoukedima, Nagaland 797103, India.
-Correspondence email: amrit09us@yahoo.com
 
 
 This repository is an ongoing work for "Investigating formaldehyde removal using metal-organic frameworks through generative Artificial Intelligence screening"
