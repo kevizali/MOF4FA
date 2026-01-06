@@ -1,1 +1,1 @@
-# Public repository for "Artificial Intelligence-assisted screening of MOFs for formaldehyde removal: Combining molecular simulation and machine learning"
+# Public repository for "AI-assisted screening of MOFs for formaldehyde removal: Combining GCMC simulation and machine learning"
